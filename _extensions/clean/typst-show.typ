@@ -75,4 +75,7 @@
     $endfor$
   ),
   date: [$date$],
+  lecture-date: [$lecture-date$],
+  web: [$web$],
+  icon: [$icon$]
 )
